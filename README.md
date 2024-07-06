@@ -32,7 +32,7 @@ You can use this project on a local server (like WAMP, XAMPP) or on any PHP host
 
 **Open the project in your web browser:**
 
-Go to http://localhost/wordpress-salt-generator/index.php.
+- Go to http://localhost/wordpress-salt-generator/index.php.
 
 **Using with a PHP Hosting Server**
 
