@@ -21,7 +21,7 @@ You can use this project on a local server (like WAMP, XAMPP) or on any PHP host
 
 - Download the project files and unzip them.
 
-**Copy the project to the server directory:*
+**Copy the project to the server directory:**
 
 - For WAMP: Copy the wordpress-salt-generator folder to C:\wamp64\www.
 - For XAMPP: Copy the wordpress-salt-generator folder to C:\xampp\htdocs.
