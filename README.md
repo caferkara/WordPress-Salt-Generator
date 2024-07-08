@@ -44,6 +44,10 @@ You can use this project on a local server (like WAMP, XAMPP) or on any PHP host
 
 - Go to http://yourdomain.com/wordpress-salt-generator/index.php
 
+# Sobre de Salt Generator WordPress
+
+[Haga clic aquí para leer más](https://caferkara.com.tr/projects/wordpress-salt-generator-features-and-changelogs/sobre-de-salt-generator-wordpress/#post-7)
+
 # License
 
 This project is licensed under the MIT License.
